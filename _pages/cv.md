@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.A. in Economics, URosario
-* M.A. in Economics, URosario
-* M.Res. in Economics, Queen Mary University of London
 * Ph.D (c) in Economics, Queen Mary University of London
+* M.Res. in Economics, Queen Mary University of London
+* M.A. in Economics, URosario
+* B.A. in Economics, URosario
