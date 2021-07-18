@@ -3,11 +3,11 @@ main:
   - title: "About me"
     url: /
 
-  - title: "Talks"
+  - title: "Travel"
     url: /talks/    
     
-  - title: "Travel"
-    url: /talkmap/    
+  #- title: "Travel"
+  #  url: /talkmap/    
 
   #- title: "Teaching"
   #  url: /teaching/    
