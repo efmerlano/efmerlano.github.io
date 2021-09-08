@@ -10,7 +10,12 @@ var addressPoints = [
     -79.383184
   ],
   [
-    "Bogota D.C., Colombia",
+    "Ottawa, Canada",
+    45.42153,
+    -75.697193
+  ],
+  [
+    "Bogotá D.C., Colombia",
     4.598056,
     -74.075833
   ],
@@ -75,6 +80,11 @@ var addressPoints = [
     -80.19179
   ],
   [
+    "Key West, USA",
+    24.555059,
+    -81.779987
+  ],
+  [
     "Atlanta, USA",
     33.748997,
     -84.387985
@@ -85,7 +95,7 @@ var addressPoints = [
     -86.779068
   ],
   [
-    "Panama, Panama",
+    "Panamá City, Panamá",
     8.982379,
     -79.51987
   ],
@@ -95,17 +105,17 @@ var addressPoints = [
     -76.531985
   ],
   [
-    "Medellin, Colombia",
+    "Medellín, Colombia",
     6.244203,
     -75.581212
   ],
   [
-    "Popayan, Colombia",
+    "Popayán, Colombia",
     2.45,
     -76.616667
   ],
   [
-    "Cucuta",
+    "Cúcuta, Colombia",
     7.894167,
     -72.503889
   ],
@@ -148,6 +158,26 @@ var addressPoints = [
     "Washington D.C., USA",
     38.907192,
     -77.036871
+  ],
+  [
+    "San Andrés Islas, Colombia",
+    12.58724,
+    -81.70256
+  ],
+  [
+    "Armenia, Colombia",
+    4.528611,
+    -75.704167
+  ],
+  [
+    "Pereira, Colombia",
+    4.808717,
+    -75.690601
+  ],
+  [
+    "Manizales, Colombia",
+    5.067172,
+    -75.513265
   ],
   [
     "Sydney, Australia",
