@@ -13,5 +13,5 @@ Education
 ======
 * Ph.D (c) in Economics, Queen Mary University of London
 * M.Res. (with Distinction) in Economics, Queen Mary University of London
-* M.A. in Economics, URosario
-* B.A. in Economics, URosario
+* M.A. in Economics, Universidad del Rosario
+* B.A. in Economics, Universidad del Rosario
