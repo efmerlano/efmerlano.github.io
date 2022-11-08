@@ -213,5 +213,15 @@ var addressPoints = [
     "Cardiff, Wales",
     51.481581,
     -3.17909
+  ],
+  [
+    "Bucharest, Romania",
+    44.426765,
+    26.102537
+  ],
+  [
+    "Porto, Portugal",
+    41.157944,
+    -8.629105
   ]
 ];
