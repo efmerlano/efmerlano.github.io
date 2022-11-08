@@ -14,7 +14,7 @@ Hi there! I'm a applied microeconomist currently based at [Queen Mary University
 
 My research interests are in applied microeconomics, econometrics, and social data science. Some of the fields I have worked on involve labor economics, crime and conflicts, education,  and health economics.
 
-Before moving to the UK, I was a senior advisor working on policy evaluation at the Ministry of Education (Colombia) and researcher at [URosario](https://www.urosario.edu.co/inicio/) (Colombia). 
+Before moving to the UK, I was a senior advisor working on policy evaluation at the Ministry of Education (Colombia) and researcher at [URosario](https://www.urosario.edu.co/) (Colombia). 
 
 I am a Ph.D. (c) in Economics at [QMUL](https://www.qmul.ac.uk). I also obtained an M.Res. (with Distinction) in Economics at [QMUL](https://www.qmul.ac.uk), and an M.A. and B.A. in Economics at [URosario](https://www.urosario.edu.co/Facultad-de-Economia/Inicio/).
 
