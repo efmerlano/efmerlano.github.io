@@ -10,7 +10,7 @@ redirect_from:
 
 <br>
 
-Hi there! I'm a applied microeconomist currently based at [Queen Mary University of London](https://www.qmul.ac.uk).
+Hi there! I'm an applied microeconomist currently based at [Queen Mary University of London](https://www.qmul.ac.uk).
 
 My research interests are in applied microeconomics, econometrics, and social data science. Some of the fields I have worked on involve labor economics, crime and conflicts, education,  and health economics.
 
