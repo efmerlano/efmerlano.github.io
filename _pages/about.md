@@ -10,12 +10,12 @@ redirect_from:
 
 <br>
 
-Hi there! I'm an applied microeconomist currently based at [Queen Mary University of London](https://www.qmul.ac.uk).
+Hi there! I am an applied microeconomist currently based at <a href="https://www.qmul.ac.uk/" target="_blank">Queen Mary University of London (QMUL)</a>.
 
-My research interests are in applied microeconomics, econometrics, and social data science. Some of the fields I have worked on involve labor economics, crime and conflicts, education,  and health economics.
+My research interests involve a combination of applied microeconomics, econometrics, and social data science. My recent experience focuses on causal inference methods (multidimensional regression-discontinuity design) and discrete choice models when decision-makers have incorrect beliefs or face a limited set of alternatives. I also have research experience in labor economics, education, and health economics in both developed and developing economies.
 
-Before moving to the UK, I was a senior advisor working on policy evaluation at the Ministry of Education (Colombia) and researcher at [URosario](https://www.urosario.edu.co/) (Colombia). 
+Before moving to the UK, I was a senior advisor working on policy evaluation at the Ministry of Education (Colombia) and a researcher at <a href="https://www.urosario.edu.co/" target="_blank">URosario</a> (Colombia).
 
-I am a Ph.D. (c) in Economics at [QMUL](https://www.qmul.ac.uk). I also obtained an M.Res. (with Distinction) in Economics at [QMUL](https://www.qmul.ac.uk), and an M.A. and B.A. in Economics at [URosario](https://www.urosario.edu.co/Facultad-de-Economia/Inicio/).
+I am a **PhD** candidate in Economics at <a href="https://www.qmul.ac.uk/" target="_blank">Queen Mary University of London</a>. I also obtained an **M.Res.** (with Distinction) in Economics at <a href="https://www.qmul.ac.uk/" target="_blank">QMUL</a>, and an **M.A.** and **B.A.** in Economics at <a href="https://www.urosario.edu.co/" target="_blank">URosario</a>.
 
-Feel free to contact me at efmerlano [at] gmail.com or add me on any of my social media. I tend to use Instagram ([here](https://www.instagram.com/efmerlano/)), and I'm slowly working on my tweeting skills ([here](https://twitter.com/efmerlano)).
+Feel free to contact me at efmerlano [at] gmail.com or add me on any of my social media. I tend to use Instagram <a href="https://www.instagram.com/efmerlano/" target="_blank">(here)</a>, and I'm slowly working on my Twitter skills <a href="https://twitter.com/efmerlano/" target="_blank">(here)</a>.
