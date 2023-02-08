@@ -7,10 +7,10 @@ main:
     url: /cv/
 
   - title: "Research"
-    url: /Research/
+    url: /research/
     
   - title: "Travel"
-    url: /talks/    
+    url: /travel/    
     
   #- title: "Travel"
   #  url: /talkmap/    
