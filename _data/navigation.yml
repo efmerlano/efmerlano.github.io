@@ -3,6 +3,12 @@ main:
   - title: "About me"
     url: /
 
+  - title: "CV"
+    url: /cv/
+
+  - title: "Research"
+    url: /Research/
+    
   - title: "Travel"
     url: /talks/    
     
@@ -17,9 +23,6 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
     
   #- title: "Markdown guide"
   #  url: /markdown/
