@@ -11,7 +11,7 @@ redirect_from:
 
 **Working papers**
 
-- "Boundary estimation in the regression-discontinuity design: Evidence for a merit- and need-based financial aid program." (2022).
+- "Boundary estimation in the regression-discontinuity design: Evidence for a merit- and need-based financial aid program." (2022). [[PDF](http://efmerlano.github.io/files/Merlano_2022_WP_BRDD.pdf)]
 
 - "Patient information and surgery decisions: A Discrete Choice Experiment." (with F.  Cornaglia and A.  Iaria). (2022).
 
