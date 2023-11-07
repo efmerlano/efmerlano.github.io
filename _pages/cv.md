@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D (c) in Economics, Queen Mary University of London
+* Ph.D. in Economics, Queen Mary University of London
 * M.Res. (with Distinction) in Economics, Queen Mary University of London
 * M.A. in Economics, Universidad del Rosario
 * B.A. in Economics, Universidad del Rosario
