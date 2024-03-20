@@ -10,7 +10,7 @@ redirect_from:
 
 <br>
 
-Hi there! I am an applied microeconomist currently based at <a href="https://www.qmul.ac.uk/" target="_blank">Queen Mary University of London (QMUL)</a>.
+Hi there! I am an applied microeconomist currently based at the <a href="https://www.surrey.ac.uk/" target="_blank">University of Surrey</a>.
 
 My research interests involve a combination of applied microeconomics, econometrics, and social data science. My recent experience focuses on causal inference methods (multidimensional regression-discontinuity design) and discrete choice models when decision-makers have incorrect beliefs or face a limited set of alternatives. I also have research experience in labor economics, education and health economics in both developed and developing economies.
 
